@@ -3,7 +3,7 @@ Hi 👋 I’m @Donishjoy
 
 Full Stack Developer
 ----------------
-* 🌍 I'm based in India
+- 🌍 I'm based in India
 - 👀 I’m interested in ...Nodejs,Reactjs,Expressjs,MongoDB,PostgresDB,AI,ML,Java,javaScript
 - 📫 How to reach me ...https://github.com/Donishjoy
 
